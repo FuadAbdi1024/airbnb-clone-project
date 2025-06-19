@@ -55,3 +55,34 @@ A well-designed, intuitive interface is essential in a booking platform because:
 - Encourages repeat visits by offering a satisfying experience
 - Makes accessibility possible for a wider range of users
 
+
+
+### 🎨 Color Styles
+
+- **Primary:** `#FF5A5F`
+- **Secondary:** `#008489`
+- **Background:** `#FFFFFF`
+- **Text:** `#222222`
+- **Secondary Text:** `#717171`
+
+---
+
+### 🔤 Typography
+
+- **Primary Font:** Circular, Medium (500), 16px
+- **Headings:** Circular, Bold (700), 24px–32px
+- **Secondary Text:** Circular, Book (400), 14px
+
+---
+
+### 🛠️ Importance of Identifying Design Properties
+
+Identifying and documenting design properties such as color styles and typography in mockup designs is crucial for several reasons:
+
+- **Consistency:** Ensures a unified look and feel across all pages and components.
+- **Communication:** Provides clear guidelines for developers, designers, and stakeholders to understand the design intent.
+- **Efficiency:** Speeds up development by having predefined styles ready to implement.
+- **Quality:** Helps maintain visual hierarchy, readability, and accessibility.
+- **Collaboration:** Tools like Figma allow design specs (colors, fonts, spacing) to be shared precisely, reducing ambiguity during handoffs.
+
+These design specifications act as the blueprint for translating visual mockups into functioning user interfaces with pixel-perfect accuracy.
