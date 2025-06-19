@@ -1,14 +1,35 @@
-# airbnb-clone-project
-This project is a full-stack clone of the popular accommodation booking platform AirBnB.
-The goal is to build a functional web application that allows users to browse property listings, view detailed property information, and complete bookings.
-The project will cover frontend development, backend APIs, database design, and deployment.
+# Airbnb Clone Project
 
+This project is a **full-stack clone** of the popular accommodation booking platform **Airbnb**.
 
-Tech Stack
-Frontend: HTML, CSS, JavaScript (React or similar framework)
-Version Control: Git and GitHub
-Design Tools: Figma for UI/UX design.
+The goal is to build a **functional web application** that allows users to:
 
+- Browse property listings
+- View detailed property information
+- Complete bookings
+
+The project covers:
+
+- Frontend development
+- Backend APIs
+- Database design
+- Deployment
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+- HTML  
+- CSS  
+- JavaScript (React or similar framework)  
+
+### Version Control
+- Git  
+- GitHub  
+
+### Design Tools
+- Figma (for UI/UX design)
 
 
 ## 🧩 UI/UX Design Planning
@@ -100,5 +121,31 @@ These design specifications act as the blueprint for translating visual mockups 
 | **DevOps Engineers**   | Manages deployment, CI/CD pipeline, server infrastructure            |
 | **Product Owner**      | Defines requirements, prioritizes features, represents stakeholders  |
 | **Scrum Master**       | Facilitates agile processes, removes blockers, organizes meetings    |
+
+
+## 🧩 UI Component Patterns
+
+### Planned Components
+
+#### Navbar
+- Logo
+- Search bar
+- User navigation
+- Responsive menu
+
+#### Property Card
+- Property image
+- Basic details (price, location, rating)
+- Favorite button
+- Responsive layout
+
+#### Footer
+- Site links
+- Company information
+- Social media links
+- Copyright information
+
+Each component will be designed for **reusability** and **consistency** across the application.
+
 
 
